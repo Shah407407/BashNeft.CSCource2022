@@ -15,6 +15,7 @@ namespace BashNeft.CSCource2022.TestAppFr
 
         static void Main(string[] args)
         {
+            //lhhhhhhh
             MessageBox(IntPtr.Zero, "Hello World!", "Hello Dialog", 0);
         }
     }
