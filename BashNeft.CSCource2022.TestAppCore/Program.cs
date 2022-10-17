@@ -9,7 +9,7 @@ namespace BashNeft.CSCource2022.TestAppCore
         static void Main(string[] args)
         {
         //--  gggggg
-        MessageBox(IntPtr.Zero, "Hello World!", "Hello Dialog", 0);
+        MessageBox(IntPtr.Zero, "Hello World!", "Hello Dialog", 0);//bbbb
         Console.WriteLine("Hello, World!");
         }
     }
